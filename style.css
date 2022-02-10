@@ -123,7 +123,7 @@ input{
 @media (max-width: 575.98px) {  
   .banner-image{
     background: linear-gradient(to bottom, #000 4%, transparent), url('Img/bg1.jpg');
-    background-size:cover;
+    background-size:contain;
 } 
 
 .title{
@@ -156,7 +156,7 @@ footer{
 @media (max-width: 767.98px) { 
     .banner-image{
        background: linear-gradient(to bottom, #000 4%, transparent), url('Img/bg1.jpg');
-        background-size:cover;
+        background-size:contain;
     } 
     
     .title{
@@ -180,7 +180,7 @@ footer{
     .banner-image{
  
         background: linear-gradient(to bottom, #000 4%, transparent), url('Img/bg1.jpg');
-        background-size:cover;
+        background-size:contain;
     } 
     
     .title{
